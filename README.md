@@ -6,5 +6,5 @@
 
 # GIF
 
-
+  ![alt text](https://github.com/eneeesyk/Snake-Game/blob/main/Snake.gif)
 
